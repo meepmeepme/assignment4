@@ -13,3 +13,7 @@ body{
     margin: 4px 2px;
     cursor: pointer;
 }
+.wrapper{
+    height: 300px;
+    width: 900px;
+}
